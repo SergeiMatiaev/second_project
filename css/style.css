@@ -1,3 +1,18 @@
 header {
     background-color: blueviolet;
+    width: 25%;
+    margin: 10%;
+    padding: 10%;
+    height: 50px;
+    border-radius: 5%;
+    text-align: center;
+}
+main {
+    background-color: darkblue;
+    width: 25%;
+    margin: 10%;
+    padding: 10%;
+    height: 300px; 
+    border-radius: 5%;
+    text-align: center;
 }
